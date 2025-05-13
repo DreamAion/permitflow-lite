@@ -1,0 +1,8 @@
+## 📄 sample_permit.txt (Example Content)
+```
+Applicant: Gerard Bolis
+Project Address: 1234 Broadway, New York, NY 10001
+Scope: Demolition of interior partitions and renovation of commercial space for retail
+Approval Date: 03/15/2024
+Permit ID: PF-0004892
+Inspector: M. Rudd
